@@ -47,6 +47,11 @@ flutter:
     - assets/icons/icon_saldo.png 
     - assets/icons/icon_scan.png 
     - assets/icons/icon_transfer.png
+    - assets/images/food_1.jgp
+    - assets/images/food_2.jgp
+    - assets/images/food_3.jgp
+    - assets/images/food_4.jgp
+    - assets/images/food_5.jgp
 
   fonts:
     - family: NeoSans
